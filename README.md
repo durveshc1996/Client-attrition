@@ -1,4 +1,4 @@
-# Client-attrition using ML
+# Employee-attrition using ML
 #### Project Overview :
 Employee Attrition is amongst major issues, daunting the HR department of every organisation.
 
